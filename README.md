@@ -6,5 +6,5 @@ and regenerate the probability distribution of these features.
 Therefore applying the model parameters to stable input signal outside the training data, 
 should produce closely related distribution and unstable signal yielding negative results.
 
-The details of the project are discussed in the following blog post:
+The details of the project are discussed in the following blog post: <br>
 https://be-nyame.github.io/profile/egrid.html
