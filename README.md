@@ -1,2 +1,1 @@
-# egrid
-Monitoring Electric Grid Stability
+# Monitoring Electric Grid Stability
