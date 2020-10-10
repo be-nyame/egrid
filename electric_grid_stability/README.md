@@ -8,3 +8,7 @@
   pandas 0.25.1 <br>
   matplotlib 3.1.1 <br>
   scikit-learn 0.21.3
+
+- ### Model Training and Testing
+  - Run train.py to train and save model parameters
+  - Run test.py to evaluate model prediction on test inputs
